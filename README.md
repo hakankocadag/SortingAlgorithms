@@ -77,7 +77,7 @@ Easy to understand, slow in practice.
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/YourUsername/Sorting-Algorithms-Java.git
+   git clone https://github.com/hakankocadag/SortingAlgorithms.git
    ```
 2. Open the project in IntelliJ, Eclipse, or VS Code.
 3. Navigate to the algorithm you want to test, e.g. `src/quicksort/QuickSort.java`.
