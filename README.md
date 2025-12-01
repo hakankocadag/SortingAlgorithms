@@ -8,7 +8,7 @@ This repository demonstrates clean architecture, recursion, and algorithm effici
 This repository contains implementations of:
 
 * **Merge Sort** (Divide & Conquer)
-* **Quick Sort** (Divide & Conquer — Lomuto Partition)
+* **Quick Sort** (Divide & Conquer)
 * **Insertion Sort** (Simple & Adaptive)
 * **Selection Sort** (In-place comparison)
 * **Bubble Sort** (Basic comparison)
