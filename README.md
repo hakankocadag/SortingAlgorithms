@@ -28,22 +28,6 @@ This repository contains implementations of:
 
 * *O(1)* = sorts **in-place**.
 
-## 📂 Project Structure
-
-```
-src/
-├── bubblesort/
-│   └── BubbleSort.java
-├── insertionsort/
-│   └── InsertionSort.java
-├── mergesort/
-│   └── MergeSort.java
-├── quicksort/
-│   └── QuickSort.java
-└── selectionsort/
-    └── SelectionSort.java
-```
-
 ## 🧠 Algorithm Details
 
 ### Merge Sort
