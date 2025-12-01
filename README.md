@@ -1,4 +1,4 @@
-# Java Sorting Algorithms 🚀
+# Java Sorting Algorithms 
 
 A comprehensive collection of fundamental sorting algorithms implemented in Java.
 This repository demonstrates clean architecture, recursion, and algorithm efficiency analysis.
