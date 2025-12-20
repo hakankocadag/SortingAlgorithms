@@ -3,7 +3,7 @@
 A comprehensive collection of fundamental sorting algorithms implemented in Java.
 This repository demonstrates clean architecture, recursion, and algorithm efficiency analysis.
 
-## 📋 Algorithms Included
+## Algorithms Included
 
 This repository contains implementations of:
 
@@ -13,7 +13,7 @@ This repository contains implementations of:
 * **Selection Sort** (In-place comparison)
 * **Bubble Sort** (Basic comparison)
 
-## ⚡ Complexity Analysis (Big O)
+## Complexity Analysis (Big O)
 
 | Algorithm      | Best Time  | Average Time | Worst Time | Space Complexity | Method       |
 | -------------- | ---------- | ------------ | ---------- | ---------------- | ------------ |
@@ -28,7 +28,7 @@ This repository contains implementations of:
 
 * *O(1)* = sorts **in-place**.
 
-## 🧠 Algorithm Details
+## Algorithm Details
 
 ### Merge Sort
 
@@ -56,7 +56,7 @@ Simple but always **O(n²)**.
 Swaps adjacent elements until the array is sorted.
 Easy to understand, slow in practice.
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repo:
 
@@ -67,6 +67,6 @@ Easy to understand, slow in practice.
 3. Navigate to the algorithm you want to test, e.g. `src/quicksort/QuickSort.java`.
 4. Run the `main` method.
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.
